@@ -6,18 +6,19 @@
     Carl T. Hayden Phoenix VA Health Care System (111E) 
     Phoenix, AZ 85012
 
-Juraj Koska MD PhD 
-Carl T. Hayden Phoenix VA Health Care System (111E) 
-Phoenix, AZ 85012
+### Juraj Koska MD PhD 
+    Carl T. Hayden Phoenix VA Health Care System (111E) 
+    Phoenix, AZ 85012
 
-Gideon Bahn PhD
-Edward Hines, Jr. VA
-Hines, IL 60141
+### Gideon Bahn PhD
+    Edward Hines, Jr. VA
+    Hines, IL 60141
 
-Peter Reaven MD
-Carl T. Hayden Phoenix VA Health Care System (111E)
-Phoenix, AZ 85012
+### Peter Reaven MD
+    Carl T. Hayden Phoenix VA Health Care System (111E)
+    Phoenix, AZ 85012
 
-For the VADT Investigators
-Keywords: Microvascular complications, Glycemic control, Long-term glycemic variability, Type 2 Diabetes, Interaction
+**For the VADT Investigators**
+
+**Keywords:** Microvascular complications, Glycemic control, Long-term glycemic variability, Type 2 Diabetes, Interaction
 Short Title: Glycemic Variation and Microvascular Complications 

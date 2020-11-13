@@ -22,3 +22,5 @@
 
 **Keywords:** Microvascular complications, Glycemic control, Long-term glycemic variability, Type 2 Diabetes, Interaction
 Short Title: Glycemic Variation and Microvascular Complications 
+
+*Correspond to jzhou@email.arizona.edu

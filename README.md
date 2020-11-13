@@ -1,10 +1,10 @@
 # Fasting Glucose Variation Predicts Microvascular Risk in ACCORD and VADT 
 
-Jin J. Zhou PhD*
-Department of Epidemiology and Biostatistics
-Mel and Enid Zuckerman College of Public Health University of Arizona  Tucson, AZ 85724
-Carl T. Hayden Phoenix VA Health Care System (111E) 
-Phoenix, AZ 85012
+### Jin J. Zhou PhD*
+    Department of Epidemiology and Biostatistics
+    Mel and Enid Zuckerman College of Public Health University of Arizona  Tucson, AZ 85724
+    Carl T. Hayden Phoenix VA Health Care System (111E) 
+    Phoenix, AZ 85012
 
 Juraj Koska MD PhD 
 Carl T. Hayden Phoenix VA Health Care System (111E) 

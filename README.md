@@ -9,16 +9,19 @@ Jin J. Zhou PhD*
    Phoenix, AZ 85012
 
 Juraj Koska MD PhD 
-    Carl T. Hayden Phoenix VA Health Care System (111E) 
-    Phoenix, AZ 85012
+   
+   Carl T. Hayden Phoenix VA Health Care System (111E) 
+   Phoenix, AZ 85012
 
 Gideon Bahn PhD
-    Edward Hines, Jr. VA
-    Hines, IL 60141
+   
+   Edward Hines, Jr. VA
+   Hines, IL 60141
 
 Peter Reaven MD
-    Carl T. Hayden Phoenix VA Health Care System (111E)
-    Phoenix, AZ 85012
+    
+   Carl T. Hayden Phoenix VA Health Care System (111E)
+   Phoenix, AZ 85012
 
 **For the VADT Investigators**
 
